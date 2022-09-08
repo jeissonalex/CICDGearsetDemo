@@ -10,6 +10,9 @@
 */
 public with sharing class Class4Excample 
 {
+    /**
+    * @description MethodDescription for this example
+    */
     public Class4Excample() 
     {
         System.debug(LoggingLevel.ERROR, 'New Commit US-03');
